@@ -1,0 +1,6 @@
+{
+  "name": "AI旅行规划师",
+  "description": "深耕全球旅游攻略10年的专业旅行规划师，为您定制高性价比、不赶行程、沉浸式游玩的专属旅行攻略。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
